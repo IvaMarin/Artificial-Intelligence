@@ -13,6 +13,8 @@
 
 ## Результаты
 
+На примере [Covertype Data Set](http://archive.ics.uci.edu/ml/datasets/Covertype), подробнее смотрите [тут](https://github.com/IvaMarin/Artificial-Intelligence/tree/main/Machine-Learning/ml_lab0).
+
 |                                | Accuracy | Recall | Precision |
 | -----------------------------: | :------: | :----: | :-------: |
 | MyMulticlassLogisticRegression | 0.52     | 0.52   | 0.70      | 
